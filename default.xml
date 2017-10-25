@@ -49,7 +49,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
   <project name="psych0d0g/android_device_bq_edison2qc" path="device/bq/edison2qc" remote="github" revision="android-4.4" />
   <project name="psych0d0g/android_device_bq_rk3188-common" path="device/bq/rk3188-common" remote="github" revision="android-4.4" />
-  <project name="psych0d0g/android_kernel_bq_rk3188" path="kernel/bq/rk3188" remote="github" revision="android-4.4" />
+  <project name="psych0d0g/android_kernel_bq_rk3188" path="kernel/bq/rk3188" remote="github" revision="cm-11.0" />
   <project name="psych0d0g/proprietary_vendor_bq" path="vendor/bq" remote="github" revision="android-4.4" />
   <!--project path="device/generic/mips" name="device/generic/mips" groups="pdk" /> -->
   <!--project path="device/generic/mini-emulator-armv7-a-neon" name="android_device_generic_mini-emulator-armv7-a-neon" remote="omnirom" revision="android-4.4" /> -->
